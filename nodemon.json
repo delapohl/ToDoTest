@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "todotest",
+        "MONGO_PASSWORD": "76V3gvbdAQ8FrPT4p2pERtzDGWP5nwraNDM9hJ8XknCWEnj3fg",
+        "MONGO_DB": "ToDoTest"
+    }
+}
