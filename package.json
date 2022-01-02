@@ -2,7 +2,7 @@
     "name": "todotest",
     "version": "1.0.0",
     "description": "ToDo test app",
-    "main": "app.js",
+    "main": "dist/js/app.js",
     "scripts": {
         "build": "tsc",
         "start": "concurrently \"tsc -w\" \"nodemon dist/js/app.js\"",
